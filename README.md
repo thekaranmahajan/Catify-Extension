@@ -1,4 +1,4 @@
-# Catify-Extension
+# Catify-Extension :smiley_cat:
 Replace all images with cute cat pictures
 
 
