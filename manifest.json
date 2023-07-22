@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Catify Extension",
+    "version": "1.0",
+    "description": "Replace all images with cute cat pictures.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab", "scripting"],
+    "icons": {
+      "48": "favicon/icon48.png",
+      "128": "favicon/icon128.png"
+    },
+    "host_permissions": ["*://*/*"]
+  }
+  
